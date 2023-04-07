@@ -1,2 +1,2 @@
 # BakeryFood
-![]<img src="bakerygif.gif">
+<img src="bakerygif.gif">
